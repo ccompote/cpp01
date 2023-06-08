@@ -6,15 +6,15 @@
 #    By: ccompote <ccompote@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/28 14:10:13 by ccompote          #+#    #+#              #
-#    Updated: 2023/06/08 11:36:12 by ccompote         ###   ########.fr        #
+#    Updated: 2023/06/08 15:02:00 by ccompote         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = c++
 
-SRCS =   main.cpp 
+SRCS =   main.cpp Harl.cpp
 
-NAME =  replace
+NAME =  harl
 
 CFLAGS = -Wall -Wextra -Werror -std=c++98
 
